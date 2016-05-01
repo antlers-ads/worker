@@ -1,2 +1,3 @@
-# worker
-Tier used to return advertisements
+# Antlers Ads worker tier
+
+Tier used to return advertisements.
